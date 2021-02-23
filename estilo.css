@@ -1,0 +1,255 @@
+
+
+body{
+  background: url(vector1.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+
+.a1{
+	color:#35E845;
+	font-family:castellar;
+font-size: 60px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+    3px 3px 1px #16A723,
+    5px 5px 2px #79FF3A,
+    8px 8px 3px #79FF3A;
+    ;
+	
+}
+.b1{
+	color:#35E845;
+	font-family:castellar;
+font-size: 20px;
+font-style: italic;
+text-align: center;
+text-shadow: 
+  
+}
+
+.a2{
+	color:#DCF5E4;
+	top:30px;
+	font-family:castellar;
+font-size: 20px;
+font-style: italic;
+text-align: center;
+
+	
+}
+.img1{
+
+  width:350px;
+    height:350px;
+    border-radius:150px ;
+  border:6px solid #35E845;
+
+   }
+
+.d1{
+
+background-color:#3FFF79;
+	font-family:arial;
+	position:absolute;
+	top:280px;
+	left:40%;
+	height:70px;
+	width:310px;
+	border-radius:15px;
+}
+
+.d2{
+
+background-color:#3FFF79;
+	font-family:arial;
+	position:absolute;
+	top:380px;
+	left:50%;
+	height:40px;
+	width:30px;
+	border-radius:30px;
+
+
+}
+
+.d2:hover :{
+
+background-color:#3FFF79;
+	font-family:arial;
+	position:absolute;
+	top:280px;
+	left:70%;
+	height:280px;
+	width:310px;
+	border-radius:15px;
+}
+.d2 .img2{
+	opacity:0;
+
+}
+.d2:hover .img2{
+	opacity:1;
+
+}
+.periodo1{
+	position: absolute;
+	top: 530px;
+	left: 490px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .periodo1:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+
+  .periodo2{
+	position: absolute;
+	top: 530px;
+	left: 610px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .periodo2:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+
+  .periodo3{
+	position: absolute;
+	top: 530px;
+	left: 730px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .periodo3:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+
+  .periodo4{
+	position: absolute;
+	top: 530px;
+	left: 850px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .periodo4:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+   .volver{
+  position: absolute;
+  top: 500px;
+  left: 550px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .volver:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+
+   .t1{
+  position: absolute;
+  top: 300px;
+  left: 200px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .t1:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .t2{
+  position: absolute;
+  top: 300px;
+  left: 400px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .t2:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+   .t3{
+  position: absolute;
+  top: 300px;
+  left: 600px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
+  .t3:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border: 7px solid #10DE52;
+    border-radius:30px;
+  }
